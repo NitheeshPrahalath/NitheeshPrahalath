@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I am C.S.Nitheesh Prahalath , currently Pursuing my Bachelor of Computer Science Engineering Course at Sona College of Technology, Salem.
 I am a Full-Stack developer and love writing clean and maintainable code. 
 
