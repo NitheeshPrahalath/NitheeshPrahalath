@@ -4,7 +4,7 @@
 I am C.S.Nitheesh Prahalath , currently Pursuing my Bachelor of Computer Science Engineering Course at Sona College of Technology, Salem.
 I am a Full-Stack developer and love writing clean and maintainable code. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-priyadharshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadharshan-chandranath/)](https://www.linkedin.com/in/priyadharshan-chandranath/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nitheesh_Prahalath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitheesh-prahalath-14b44b15a/)](https://www.linkedin.com/in/nitheesh-prahalath-14b44b15a/)
 [![Medium Badge](https://img.shields.io/badge/priyadharshan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@priyan2003chandru/)](https://medium.com/@priyan2003chandru/)
 [![Gmail Badge](https://img.shields.io/badge/-priyan2003chandru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyan2003chandru@gmail.com)](mailto:priyan2003chandru@gmail.com)
 
