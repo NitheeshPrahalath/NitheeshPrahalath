@@ -5,7 +5,7 @@ I am C.S.Nitheesh Prahalath , currently Pursuing my Bachelor of Computer Science
 I am a Full-Stack developer and love writing clean and maintainable code. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nitheesh_Prahalath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitheesh-prahalath-14b44b15a/)](https://www.linkedin.com/in/nitheesh-prahalath-14b44b15a/)
-[![Medium Badge](https://img.shields.io/badge/priyadharshan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@priyan2003chandru/)](https://medium.com/@priyan2003chandru/)
+[![Medium Badge](https://medium.com/@nitheeshprahalathcs-12100E?style=flat-square&logo=medium&logoColor=white&link=[https://medium.com/@nitheeshprahalathcs](https://medium.com/@nitheeshprahalathcs)/)](https://medium.com/@nitheeshprahalathcs/)
 [![Gmail Badge](https://img.shields.io/badge/-nitheeshprahalathcs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nitheeshprahalathcs@gmail.com)](mailto:nitheeshprahalathcs@gmail.com)
 
 
