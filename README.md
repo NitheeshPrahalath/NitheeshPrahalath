@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:200122,100:6f0000&height=200&section=header&text=Nitheesh%20Prahalath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Generalist%20%7C%20Fantasy%20Writer&descAlignY=58&descSize=20" alt="Hero Banner" width="100%"/>
 </p>
